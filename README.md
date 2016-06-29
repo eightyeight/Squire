@@ -25,7 +25,7 @@ The general philosophy of Squire is to allow the browser to do as much as it can
 Installation and usage
 ----------------------
 
-1. Copy the contents of the `build/` directory onto your server.
+1. Copy the contents of the `build/` directory onto your server or get [squire-rte](https://www.npmjs.com/package/squire-rte) from NPM.
 2. Edit the `<style>` block in document.html to add the default styles you
    would like the editor to use (or link to an external stylesheet).
 3. In your application, instead of a `<textarea>`, use an
